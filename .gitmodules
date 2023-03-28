@@ -1,0 +1,3 @@
+[submodule "vhdl_generic"]
+	path = vhdl_generic
+	url = https://github.com/RPeschke/vhdl_generic.git
