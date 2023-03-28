@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/mnt/d/classes/phys476/build/example1/example01_tb_isim_beh.exe" -prj "/mnt/d/classes/phys476/build/example1/example01_tb_beh.prj" "work.example01_tb" 

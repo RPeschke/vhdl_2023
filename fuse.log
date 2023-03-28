@@ -1,0 +1,25 @@
+Running: /mnt/d/xilinx/linux/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -lib secureip -o /mnt/d/classes/phys476/build/example1/example01_tb_isim_beh.exe -prj /mnt/d/classes/phys476/build/example1/example01_tb_beh.prj work.example01_tb 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "/mnt/d/classes/phys476/build/example1/../../example-01/edx1.vhd" into library work
+Parsing VHDL file "/mnt/d/classes/phys476/build/example1/../../example-01/clk_generator.vhd" into library work
+Parsing VHDL file "/mnt/d/classes/phys476/build/example1/../../example-01/example-01_tb.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 52144 KB
+Fuse CPU Usage: 540 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling architecture rtl of entity example1 [example1_default]
+Compiling architecture rtl of entity Clock_Generator [clock_generator_default]
+Compiling architecture rtl of entity example01_tb
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 8 VHDL Units
+Built simulation executable /mnt/d/classes/phys476/build/example1/example01_tb_isim_beh.exe
+Fuse Memory Usage: 623676 KB
+Fuse CPU Usage: 650 ms
+GCC CPU Usage: 2130 ms
